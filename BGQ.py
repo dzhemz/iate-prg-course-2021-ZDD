@@ -1,3 +1,4 @@
+#
 n = int(input())
 a = list(map(int, input().split()))
 F = [0] * n
